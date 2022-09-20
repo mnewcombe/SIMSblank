@@ -1,4 +1,4 @@
-# Suprasil
+# SIMSblank
 Compilation of measurements of water in Suprasil 3002 glass
 
 The attached Excel workbook contains measurements of water Suprasil 3002 glass and synthetic forsterite that were collected over three different analytical sessions. All data were collected at the Earth and Planets Laboratory, Carnegie Institution for Science. Data were collected using both the IM- 6f Secondary Ion Mass Spectrometer (SIMS) or the Cameca NanoSIMS 50L. Synthetic forsterite consistently contains ~2 ppm less water than Suprasil glass. Both Suprasil glass and synthetic forsterite are routinely used as an analytical 'blank' (i.e., assumed to contain 0 ppm H2O). Assuming that synthetic forsterite contains 0 ppm H2O, our data demonstrates that Suprasil glass contains ~2 ppm H2O, which is a higher concentration than has been assumed previously. 
